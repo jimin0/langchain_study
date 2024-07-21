@@ -1,5 +1,5 @@
 """
-화면에 챗봇 만들어 보기 - LangChain 사용 
+화면에 챗봇 만들어 보기 - LangChain 사용 (import ChatOpenAI)
 단점 : 여전히 대화 흐름을 기억못함.
 하지만 확장성은 있는 듯?
 """

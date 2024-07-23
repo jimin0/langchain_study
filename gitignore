@@ -1,2 +1,4 @@
 .env
 venv
+00.info/
+.DS_Store
